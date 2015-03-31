@@ -1,4 +1,4 @@
-(defproject cgore/schema-contrib "0.1.6"
+(defproject cgore/schema-contrib "0.1.7"
   :description "Additional validators for Prismatic's Schema."
   :url "https://github.com/cgore/schema-contrib"
   :license {:name "Eclipse Public License"
