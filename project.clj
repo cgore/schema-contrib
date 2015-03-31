@@ -1,6 +1,6 @@
-(defproject schema-contrib "0.1.5"
+(defproject cgore/schema-contrib "0.1.6"
   :description "Additional validators for Prismatic's Schema."
-  :url "https://github.com/sfx/schema-contrib"
+  :url "https://github.com/cgore/schema-contrib"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[instaparse "1.3.0"]
